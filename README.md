@@ -13,8 +13,6 @@
 
 ## 👨‍🔬 Authors
 
-This project was developed by:
-
 - **Ahsan Rizvi**  
 - **Umme Hani Roshni**  
 - **Md. Irtiza Hossain Mahmud**
