@@ -143,5 +143,5 @@ DOI: `10.17632/gwbz3fsgp8.2`
 
 ## 📄 License
 
-This project is intended for **academic and educational purposes only**.
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project with proper attribution.
 
