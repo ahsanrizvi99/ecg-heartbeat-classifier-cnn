@@ -11,6 +11,18 @@
 
 ---
 
+## 👨‍🔬 Authors
+
+This project was developed by:
+
+- **Ahsan Rizvi**  
+- **Umme Hani Roshni**  
+- **Md. Irtiza Hossain Mahmud**
+  
+Department of Electrical and Computer Engineering, North South University
+
+---
+
 ## 📄 Project Abstract
 
 Cardiovascular diseases (CVDs) require fast and accurate diagnostics. This academic project automates the classification of **12-lead ECG images** into four classes:
@@ -23,16 +35,6 @@ Cardiovascular diseases (CVDs) require fast and accurate diagnostics. This acade
 We developed a **Custom Convolutional Neural Network (CNN)** that outperforms standard transfer learning models (ResNet50, MobileNetV2) on this dataset, achieving a **95.06% validation accuracy** with fewer parameters.
 
 > **Key Result:** Our lightweight Custom CNN (423K parameters) achieved strong generalization compared to heavier transfer learning models for this task.
-
----
-
-## 👨‍🔬 Authors
-
-This project was developed by:
-
-- **Ahsan Rizvi**  
-- **Umme Hani Roshni**  
-- **Md. Irtiza Hossain Mahmud**  
 
 ---
 
